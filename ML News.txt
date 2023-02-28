@@ -1,0 +1,1 @@
+File ini pembelajaran Machine Learning dasar Dari dicoding untuk traning data text didapat dari data Kaggle
